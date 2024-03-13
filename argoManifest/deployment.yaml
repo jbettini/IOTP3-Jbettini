@@ -46,7 +46,7 @@ metadata:
   namespace: dev
 spec:
   rules:
-  - host: wilS.com
+  - host: wils.com
     http:
       paths:
       - pathType: Prefix
